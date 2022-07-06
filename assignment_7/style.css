@@ -1,0 +1,43 @@
+body {
+  background-color: green
+}
+
+.title{text-align: center;
+}
+
+.author{text-align: center;}
+
+.text_container{
+  background-color: grey;
+  padding: 20px;
+  width:70%;
+  margin: auto;
+}
+
+.publish{
+  text-align: center;
+}
+.excerpt{
+  margin: auto;
+  font: monospace, serif;
+}
+
+.button{
+  text-align: center;
+  font: serif;
+  font-size: 18pt;
+}
+
+.button:hover{font: monospace
+color: yellow}
+
+h1 {font-family: serif,sans-serif;
+  font-size: 32pt
+}
+
+h2 {font-family: sans-serif,monospace;
+font-size: 24pt}
+
+h3 {font-family: sans-serif;monospace;
+  font-size: 18pt
+}
