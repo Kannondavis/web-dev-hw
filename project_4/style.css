@@ -1,0 +1,53 @@
+.navigation {
+    height: 160px;
+    width: 80%;
+    background: teal;
+    padding-left: 10%;
+    padding-right: 10%
+}
+
+.logo {
+    height: 150px;
+    width: 180px;
+    margin-left: 40%;
+    margin-right: 50%;
+    padding-top: 5px
+}
+
+.navigation ul {
+    float: right;
+    margin-right: 50%;
+    margin-left: 50%;
+    margin-top: 0%;
+}
+
+.navigation ul li {
+    list-style: none;
+}
+
+.navigation ul li a {
+    color: orange;
+    font-size: 40px;
+}
+
+.navigation ul li a:hover {
+    background-color: teal;
+    border-radius: 2px;
+}
+
+.page{
+  padding-bottom: 100px
+}
+
+.page_id {margin-left: 40%}
+
+.page_id h1 {font-size: 50px;
+font-weight: bolder;
+color: teal}
+
+.pic{
+  margin-left: 25%;
+  outline-color: teal;
+  outline-width: thick;
+  outline-style: groove;
+}
